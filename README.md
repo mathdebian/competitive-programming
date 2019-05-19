@@ -1,2 +1,2 @@
-# competitive-programming
-Basic algorithms for training
+# Competitive programming
+Basic algorithms for training.
